@@ -1,0 +1,4 @@
+`search_in_wikidata`: query = The Master and Margarita
+Find: {'Q188538': {'label': 'Мастер и Маргарита', '_isinstance': ['Q7725634'], 'occupation': [], 'total_props': 107}}, len: 1
+Book inserted in DB. 
+
